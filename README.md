@@ -1,6 +1,5 @@
 # Implementation of Multivariate Linear Regression
-Name:VISHAL M
-Reg no:212225240186
+
 ## Aim
 To write a python program to implement multivariate linear regression and predict the output.
 ## Equipment’s required:
